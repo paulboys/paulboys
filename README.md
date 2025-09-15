@@ -27,7 +27,7 @@ Bridging clinical expertise with advanced analytics to drive insights in post-ma
 
 - **MS Business Analytics** - University of Cincinnati (3.79 GPA)
 - **MHS Orthopedic Physical Therapy** - University of Indianapolis  
-- **15+ years clinical experience** - Mercy Health, Wellington Pain Associates, CAST
+- **20+ years clinical experience** - Outpatient and Acute Hospital Hospital Physical Therapist 
 
 *Unique perspective: Clinical practitioner turned data scientist, bringing domain expertise to healthcare analytics challenges.*
 
