@@ -1,6 +1,6 @@
-# Hi, I'm Paul Boys 👋
+# Paul Boys — Data Scientist 👋
 
-**Data Scientist | Former Physical Therapist | Data Scientist**
+**From patient care to AI-driven safety & health insights.**
 
 Bridging clinical expertise with advanced analytics to drive insights in post-market safety surveillance and population health. Currently applying machine learning and generative AI to real-world safety surveillance data at Procter & Gamble.
 
