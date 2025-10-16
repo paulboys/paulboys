@@ -44,21 +44,21 @@ Population health & nutrition analytics from acquisition → harmonization → s
 ![CI](https://github.com/paulboys/PopHealth-Observatory/actions/workflows/ci.yml/badge.svg) ![PyPI](https://img.shields.io/pypi/v/pophealth-observatory)
 
 ### [StockCharts (Heikin Ashi NASDAQ Screener)](https://github.com/paulboys/HeikinAshi)
-Heiken Ashi–based NASDAQ screener & charting toolkit for rapid trend reversal discovery.
+Heiken Ashi–driven NASDAQ trend reversal screener & chart generator.
 
 **Highlights**
-- 5k+ ticker coverage & color-change detection
-- Volume/timeframe filters (1m → 1mo)
-- Dual CLI: `stockcharts-screen`, `stockcharts-plot`
-- CSV + batch PNG output; API for custom workflows
-- Reproducible analysis patterns (tests, CI)
+- Full automated NASDAQ universe (5,100+ tickers)
+- Red↔Green Heiken Ashi color change & volume filters
+- Multi-timeframe (1m–1mo) screening + chart PNG output
+- Dual CLI & Python API (`stockcharts-screen`, `stockcharts-plot`)
+- CI-tested, reproducible workflow
 
 ![CI](https://github.com/paulboys/HeikinAshi/actions/workflows/ci.yml/badge.svg) ![PyPI](https://img.shields.io/pypi/v/stockcharts) ![Downloads](https://static.pepy.tech/badge/stockcharts)
 
 ```bash
 pip install stockcharts
 ```
-*PyPI coming soon; install from source today.*
+*Available on PyPI; ongoing feature expansion (indicators, backtesting planned).* 
 
 ### [Small Cap Fundamentals Analyzer](https://github.com/paulboys/small-cap-fundamentals-analyzer)
 Data-driven fundamental analysis for small-cap equity discovery
