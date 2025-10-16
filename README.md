@@ -51,9 +51,14 @@ Heiken Ashi–based NASDAQ screener & charting toolkit for rapid trend reversal 
 - Volume/timeframe filters (1m → 1mo)
 - Dual CLI: `stockcharts-screen`, `stockcharts-plot`
 - CSV + batch PNG output; API for custom workflows
- - Reproducible analysis patterns (tests, CI)  
-![CI](https://github.com/paulboys/HeikinAshi/actions/workflows/ci.yml/badge.svg) ![PyPI](https://img.shields.io/pypi/v/stockcharts)
-*PyPI planned; install from source today.*
+- Reproducible analysis patterns (tests, CI)
+
+![CI](https://github.com/paulboys/HeikinAshi/actions/workflows/ci.yml/badge.svg) ![PyPI](https://img.shields.io/pypi/v/stockcharts) ![Downloads](https://static.pepy.tech/badge/stockcharts)
+
+```bash
+pip install stockcharts
+```
+*PyPI coming soon; install from source today.*
 
 ### [Small Cap Fundamentals Analyzer](https://github.com/paulboys/small-cap-fundamentals-analyzer)
 Data-driven fundamental analysis for small-cap equity discovery
