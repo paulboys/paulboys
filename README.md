@@ -34,13 +34,29 @@ Bridging clinical expertise with advanced analytics to drive insights in post-ma
 ## 🌟 Featured Projects
 
 ### [PopHealth Observatory](https://github.com/paulboys/PopHealth-Observatory)
-NHANES analytics toolkit with RAG scaffolding for pesticide exposure research
+Population health & nutrition analytics from acquisition → harmonization → stratified insights → visualization.
+
+**Highlights**
+- Automated NHANES ingestion & schema harmonization
+- Demographic stratification & manifest-driven metadata
+- Streamlit exploration app + emerging RAG scaffold
+- Reproducible analysis patterns (tests, CI)
 ![CI](https://github.com/paulboys/PopHealth-Observatory/actions/workflows/ci.yml/badge.svg) ![PyPI](https://img.shields.io/pypi/v/pophealth-observatory)
+
+### [StockCharts (Heikin Ashi NASDAQ Screener)](https://github.com/paulboys/HeikinAshi)
+Heiken Ashi–based NASDAQ screener & charting toolkit for rapid trend reversal discovery.
+
+**Highlights**
+- 5k+ ticker coverage & color-change detection
+- Volume/timeframe filters (1m → 1mo)
+- Dual CLI: `stockcharts-screen`, `stockcharts-plot`
+- CSV + batch PNG output; API for custom workflows
+*PyPI planned; install from source today.*
 
 ### [Small Cap Fundamentals Analyzer](https://github.com/paulboys/small-cap-fundamentals-analyzer)
 Data-driven fundamental analysis for small-cap equity discovery
 
-*More enterprise projects in post-market safety surveillance (proprietary)*
+*More projects in post-market safety surveillance (proprietary)*
 
 ## 🎯 Current Focus
 
