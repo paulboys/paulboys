@@ -80,7 +80,7 @@ Data-driven fundamental analysis for small-cap equity discovery
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/paul-boys-16b79191/)
 - 📊 [RPubs](http://rpubs.com/boyspd)
-- 📧 paul.d.boys@gmail.com
+- 📧 paul.d.boys@proton.me
 - 📍 Cincinnati, OH
 
 ---
